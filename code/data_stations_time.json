@@ -1,0 +1,1246 @@
+[{
+    "num_id": 1,
+    "row": {
+        "first_train_to_station_a_odd": "5:43",
+        "last_train_to_station_a_odd_even": "0:05",
+        "first_train_to_station_b_odd": "5:56",
+        "note": "-",
+        "first_train_to_station_b_even": "5:56",
+        "first_train_to_station_a_even": "5:53",
+        "time_open": "6:30",
+        "last_train_to_station_b_odd_even": "0:52",
+        "time_close_input": "22:00 ",
+        "name_hall": "Проспект Ветеранов 1",
+        "time_close_exit": "22:00 "
+    }
+}, {
+    "num_id": 2,
+    "row": {
+        "first_train_to_station_a_odd": "5:43",
+        "last_train_to_station_a_odd_even": "0:05",
+        "first_train_to_station_b_odd": "5:56",
+        "note": "-",
+        "first_train_to_station_b_even": "5:56",
+        "first_train_to_station_a_even": "5:53",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:52",
+        "time_close_input": "0:00",
+        "name_hall": "Проспект Ветеранов 2",
+        "time_close_exit": "1:02"
+    }
+}, {
+    "num_id": 3,
+    "row": {
+        "first_train_to_station_a_odd": "5:45",
+        "last_train_to_station_a_odd_even": "0:07",
+        "first_train_to_station_b_odd": "5:53",
+        "note": "-",
+        "first_train_to_station_b_even": "5:53",
+        "first_train_to_station_a_even": "5:45",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:49",
+        "time_close_input": "0:45",
+        "name_hall": "Ленинский проспект 1",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 4,
+    "row": {
+        "first_train_to_station_a_odd": "5:45",
+        "last_train_to_station_a_odd_even": "0:07",
+        "first_train_to_station_b_odd": "5:53",
+        "note": "-",
+        "first_train_to_station_b_even": "5:53",
+        "first_train_to_station_a_even": "5:45",
+        "time_open": "6:30",
+        "last_train_to_station_b_odd_even": "0:49",
+        "time_close_input": "22:00",
+        "name_hall": "Ленинский проспект 2",
+        "time_close_exit": "22:00 "
+    }
+}, {
+    "num_id": 5,
+    "row": {
+        "first_train_to_station_a_odd": "5:35",
+        "last_train_to_station_a_odd_even": "0:10",
+        "first_train_to_station_b_odd": "5:50",
+        "note": "-",
+        "first_train_to_station_b_even": "5:50",
+        "first_train_to_station_a_even": "5:35",
+        "time_open": "5:30",
+        "last_train_to_station_b_odd_even": "0:46",
+        "time_close_input": "0:42",
+        "name_hall": "Автово",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 6,
+    "row": {
+        "first_train_to_station_a_odd": "5:37",
+        "last_train_to_station_a_odd_even": "0:13",
+        "first_train_to_station_b_odd": "6:03",
+        "note": "-",
+        "first_train_to_station_b_even": "6:03",
+        "first_train_to_station_a_even": "5:37",
+        "time_open": "5:30",
+        "last_train_to_station_b_odd_even": "0:44",
+        "time_close_input": "0:40",
+        "name_hall": "Кировский завод",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 7,
+    "row": {
+        "first_train_to_station_a_odd": "5:41",
+        "last_train_to_station_a_odd_even": "0:16",
+        "first_train_to_station_b_odd": "5:59",
+        "note": "-",
+        "first_train_to_station_b_even": "5:59",
+        "first_train_to_station_a_even": "5:41",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:40",
+        "time_close_input": "0:36",
+        "name_hall": "Нарвская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 8,
+    "row": {
+        "first_train_to_station_a_odd": "5:44",
+        "last_train_to_station_a_odd_even": "0:19",
+        "first_train_to_station_b_odd": "5:56",
+        "note": "-",
+        "first_train_to_station_b_even": "5:56",
+        "first_train_to_station_a_even": "5:44",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:37",
+        "time_close_input": "0:33",
+        "name_hall": "Балтийская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 9,
+    "row": {
+        "first_train_to_station_a_odd": "5:46",
+        "last_train_to_station_a_odd_even": "0:21",
+        "first_train_to_station_b_odd": "5:54",
+        "note": "-",
+        "first_train_to_station_b_even": "5:54",
+        "first_train_to_station_a_even": "5:46",
+        "time_open": "Вестибюль закрыт",
+        "last_train_to_station_b_odd_even": "0:35",
+        "time_close_input": "",
+        "name_hall": "Технологический институт 1",
+        "time_close_exit": ""
+    }
+}, {
+    "num_id": 10,
+    "row": {
+        "first_train_to_station_a_odd": "5:48",
+        "last_train_to_station_a_odd_even": "0:23",
+        "first_train_to_station_b_odd": "5:52",
+        "note": "-",
+        "first_train_to_station_b_even": "5:52",
+        "first_train_to_station_a_even": "5:48",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:33",
+        "time_close_input": "0:28",
+        "name_hall": "Пушкинская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 11,
+    "row": {
+        "first_train_to_station_a_odd": "5:50",
+        "last_train_to_station_a_odd_even": "0:25",
+        "first_train_to_station_b_odd": "5:50",
+        "note": "-",
+        "first_train_to_station_b_even": "5:50",
+        "first_train_to_station_a_even": "5:50",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:31",
+        "time_close_input": "0:26",
+        "name_hall": "Владимирская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 12,
+    "row": {
+        "first_train_to_station_a_odd": "5:52",
+        "last_train_to_station_a_odd_even": "0:27",
+        "first_train_to_station_b_odd": "5:48",
+        "note": "-",
+        "first_train_to_station_b_even": "5:48",
+        "first_train_to_station_a_even": "5:52",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:29",
+        "time_close_input": "0:25",
+        "name_hall": "Площадь Восстания 1",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 13,
+    "row": {
+        "first_train_to_station_a_odd": "5:52",
+        "last_train_to_station_a_odd_even": "0:27",
+        "first_train_to_station_b_odd": "5:48",
+        "note": "-",
+        "first_train_to_station_b_even": "5:48",
+        "first_train_to_station_a_even": "5:52",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:29",
+        "time_close_input": "0:25",
+        "name_hall": "Площадь Восстания 2",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 14,
+    "row": {
+        "first_train_to_station_a_odd": "5:55",
+        "last_train_to_station_a_odd_even": "0:30",
+        "first_train_to_station_b_odd": "5:45",
+        "note": "-",
+        "first_train_to_station_b_even": "5:45",
+        "first_train_to_station_a_even": "5:55",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:26",
+        "time_close_input": "0:25",
+        "name_hall": "Чернышевская",
+        "time_close_exit": "0:40"
+    }
+}, {
+    "num_id": 15,
+    "row": {
+        "first_train_to_station_a_odd": "5:58",
+        "last_train_to_station_a_odd_even": "0:33",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "5:49",
+        "first_train_to_station_a_even": "5:58",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:24",
+        "time_close_input": "0:28",
+        "name_hall": "Площадь Ленина 1",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 16,
+    "row": {
+        "first_train_to_station_a_odd": "5:58",
+        "last_train_to_station_a_odd_even": "0:33",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "5:49",
+        "first_train_to_station_a_even": "5:58",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:24",
+        "time_close_input": "22:00 ",
+        "name_hall": "Площадь Ленина 2",
+        "time_close_exit": "22:10 "
+    }
+}, {
+    "num_id": 17,
+    "row": {
+        "first_train_to_station_a_odd": "6:00",
+        "last_train_to_station_a_odd_even": "0:35",
+        "first_train_to_station_b_odd": "5:52",
+        "note": "-",
+        "first_train_to_station_b_even": "5:52",
+        "first_train_to_station_a_even": "6:00",
+        "time_open": "5:44",
+        "last_train_to_station_b_odd_even": "0:21",
+        "time_close_input": "0:30",
+        "name_hall": "Выборгская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 18,
+    "row": {
+        "first_train_to_station_a_odd": "6:03",
+        "last_train_to_station_a_odd_even": "0:38",
+        "first_train_to_station_b_odd": "5:49",
+        "note": "-",
+        "first_train_to_station_b_even": "5:49",
+        "first_train_to_station_a_even": "6:03",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:19",
+        "time_close_input": "0:33",
+        "name_hall": "Лесная",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 19,
+    "row": {
+        "first_train_to_station_a_odd": "6:06",
+        "last_train_to_station_a_odd_even": "0:41",
+        "first_train_to_station_b_odd": "5:46",
+        "note": "-",
+        "first_train_to_station_b_even": "5:46",
+        "first_train_to_station_a_even": "6:06",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:15",
+        "time_close_input": "0:37",
+        "name_hall": "Площадь Мужества",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 20,
+    "row": {
+        "first_train_to_station_a_odd": "6:08",
+        "last_train_to_station_a_odd_even": "0:43",
+        "first_train_to_station_b_odd": "5:44",
+        "note": "-",
+        "first_train_to_station_b_even": "5:44",
+        "first_train_to_station_a_even": "6:08",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:13",
+        "time_close_input": "0:39",
+        "name_hall": "Политехническая",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 21,
+    "row": {
+        "first_train_to_station_a_odd": "6:10",
+        "last_train_to_station_a_odd_even": "0:45",
+        "first_train_to_station_b_odd": "5:42",
+        "note": "-",
+        "first_train_to_station_b_even": "5:42",
+        "first_train_to_station_a_even": "6:10",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:11",
+        "time_close_input": "0:40",
+        "name_hall": "Академическая",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 22,
+    "row": {
+        "first_train_to_station_a_odd": "6:14",
+        "last_train_to_station_a_odd_even": "0:49",
+        "first_train_to_station_b_odd": "5:38",
+        "note": "-",
+        "first_train_to_station_b_even": "5:38",
+        "first_train_to_station_a_even": "6:14",
+        "time_open": "5:30",
+        "last_train_to_station_b_odd_even": "0:08",
+        "time_close_input": "0:44",
+        "name_hall": "Гражданский проспект",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 23,
+    "row": {
+        "first_train_to_station_a_odd": "6:17",
+        "last_train_to_station_a_odd_even": "0:52",
+        "first_train_to_station_b_odd": "5:35",
+        "note": "-",
+        "first_train_to_station_b_even": "5:35",
+        "first_train_to_station_a_even": "6:17",
+        "time_open": "5:32",
+        "last_train_to_station_b_odd_even": "0:05",
+        "time_close_input": "0:00",
+        "name_hall": "Девяткино 1",
+        "time_close_exit": "1:02"
+    }
+}, {
+    "num_id": 24,
+    "row": {
+        "first_train_to_station_a_odd": "6:17",
+        "last_train_to_station_a_odd_even": "0:52",
+        "first_train_to_station_b_odd": "5:35",
+        "note": "-",
+        "first_train_to_station_b_even": "5:35",
+        "first_train_to_station_a_even": "6:17",
+        "time_open": "5:32",
+        "last_train_to_station_b_odd_even": "0:05",
+        "time_close_input": "0:00",
+        "name_hall": "Девяткино 2",
+        "time_close_exit": "1:02"
+    }
+}, {
+    "num_id": 1,
+    "row": {
+        "first_train_to_station_a_odd": "5:35",
+        "last_train_to_station_a_odd_even": "0:05",
+        "first_train_to_station_b_odd": "5:52",
+        "note": "-",
+        "first_train_to_station_b_even": "5:52",
+        "first_train_to_station_a_even": "5:35",
+        "time_open": "5:30",
+        "last_train_to_station_b_odd_even": "0:52",
+        "time_close_input": "0:00",
+        "name_hall": "Купчино",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 2,
+    "row": {
+        "first_train_to_station_a_odd": "5:37",
+        "last_train_to_station_a_odd_even": "0:07",
+        "first_train_to_station_b_odd": "5:49",
+        "note": "-",
+        "first_train_to_station_b_even": "5:50",
+        "first_train_to_station_a_even": "5:37",
+        "time_open": "5:31",
+        "last_train_to_station_b_odd_even": "0:49",
+        "time_close_input": "0:45",
+        "name_hall": "Звездная",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 3,
+    "row": {
+        "first_train_to_station_a_odd": "5:41",
+        "last_train_to_station_a_odd_even": "0:11",
+        "first_train_to_station_b_odd": "5:45",
+        "note": "-",
+        "first_train_to_station_b_even": "6:04",
+        "first_train_to_station_a_even": "5:41",
+        "time_open": "6:30",
+        "last_train_to_station_b_odd_even": "0:45",
+        "time_close_input": "22:00",
+        "name_hall": "Московская 1",
+        "time_close_exit": "22:10"
+    }
+}, {
+    "num_id": 4,
+    "row": {
+        "first_train_to_station_a_odd": "5:41",
+        "last_train_to_station_a_odd_even": "0:11",
+        "first_train_to_station_b_odd": "5:45",
+        "note": "-",
+        "first_train_to_station_b_even": "6:04",
+        "first_train_to_station_a_even": "5:41",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:45",
+        "time_close_input": "0:41",
+        "name_hall": "Московская 2",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 5,
+    "row": {
+        "first_train_to_station_a_odd": "5:44",
+        "last_train_to_station_a_odd_even": "0:14",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "6:01",
+        "first_train_to_station_a_even": "5:44",
+        "time_open": "5:37",
+        "last_train_to_station_b_odd_even": "0:42",
+        "time_close_input": "0:37",
+        "name_hall": "Парк Победы",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 6,
+    "row": {
+        "first_train_to_station_a_odd": "5:46",
+        "last_train_to_station_a_odd_even": "0:16",
+        "first_train_to_station_b_odd": "5:59",
+        "note": "-",
+        "first_train_to_station_b_even": "5:59",
+        "first_train_to_station_a_even": "5:46",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:40",
+        "time_close_input": "0:35",
+        "name_hall": "Электросила",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 7,
+    "row": {
+        "first_train_to_station_a_odd": "5:49",
+        "last_train_to_station_a_odd_even": "0:19",
+        "first_train_to_station_b_odd": "5:56",
+        "note": "-",
+        "first_train_to_station_b_even": "5:56",
+        "first_train_to_station_a_even": "5:49",
+        "time_open": "5:43",
+        "last_train_to_station_b_odd_even": "0:38",
+        "time_close_input": "0:33",
+        "name_hall": "Московские ворота",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 8,
+    "row": {
+        "first_train_to_station_a_odd": "5:51",
+        "last_train_to_station_a_odd_even": "0:21",
+        "first_train_to_station_b_odd": "5:54",
+        "note": "-",
+        "first_train_to_station_b_even": "5:54",
+        "first_train_to_station_a_even": "5:51",
+        "time_open": "5:45",
+        "last_train_to_station_b_odd_even": "0:35",
+        "time_close_input": "0:30",
+        "name_hall": "Фрунзенская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 9,
+    "row": {
+        "first_train_to_station_a_odd": "5:53",
+        "last_train_to_station_a_odd_even": "0:23",
+        "first_train_to_station_b_odd": "5:52",
+        "note": "-",
+        "first_train_to_station_b_even": "5:52",
+        "first_train_to_station_a_even": "5:53",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:33",
+        "time_close_input": "0:28",
+        "name_hall": "Технологический институт 2",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 10,
+    "row": {
+        "first_train_to_station_a_odd": "5:56",
+        "last_train_to_station_a_odd_even": "0:26",
+        "first_train_to_station_b_odd": "5:49",
+        "note": "-",
+        "first_train_to_station_b_even": "5:49",
+        "first_train_to_station_a_even": "5:56",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:31",
+        "time_close_input": "0:26",
+        "name_hall": "Сенная площадь",
+        "time_close_exit": "0:40"
+    }
+}, {
+    "num_id": 11,
+    "row": {
+        "first_train_to_station_a_odd": "5:58",
+        "last_train_to_station_a_odd_even": "0:28",
+        "first_train_to_station_b_odd": "5:47",
+        "note": "-",
+        "first_train_to_station_b_even": "5:47",
+        "first_train_to_station_a_even": "5:58",
+        "time_open": "7:00",
+        "last_train_to_station_b_odd_even": "0:29",
+        "time_close_input": "23:00",
+        "name_hall": "Невский проспект 1",
+        "time_close_exit": "23:10"
+    }
+}, {
+    "num_id": 12,
+    "row": {
+        "first_train_to_station_a_odd": "5:58",
+        "last_train_to_station_a_odd_even": "0:28",
+        "first_train_to_station_b_odd": "5:47",
+        "note": "-",
+        "first_train_to_station_b_even": "5:47",
+        "first_train_to_station_a_even": "5:58",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:29",
+        "time_close_input": "0:28",
+        "name_hall": "Невский проспект 2",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 13,
+    "row": {
+        "first_train_to_station_a_odd": "6:01",
+        "last_train_to_station_a_odd_even": "0:31",
+        "first_train_to_station_b_odd": "5:44",
+        "note": "-",
+        "first_train_to_station_b_even": "5:44",
+        "first_train_to_station_a_even": "6:01",
+        "time_open": "5:37",
+        "last_train_to_station_b_odd_even": "0:25",
+        "time_close_input": "0:26",
+        "name_hall": "Горьковская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 14,
+    "row": {
+        "first_train_to_station_a_odd": "6:04",
+        "last_train_to_station_a_odd_even": "0:33",
+        "first_train_to_station_b_odd": "5:42",
+        "note": "-",
+        "first_train_to_station_b_even": "5:57",
+        "first_train_to_station_a_even": "6:04",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:23",
+        "time_close_input": "0:28",
+        "name_hall": "Петроградская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 15,
+    "row": {
+        "first_train_to_station_a_odd": "6:07",
+        "last_train_to_station_a_odd_even": "0:37",
+        "first_train_to_station_b_odd": "5:56",
+        "note": "-",
+        "first_train_to_station_b_even": "5:55",
+        "first_train_to_station_a_even": "6:07",
+        "time_open": "5:45",
+        "last_train_to_station_b_odd_even": "0:19",
+        "time_close_input": "0:32",
+        "name_hall": "Черная речка",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 16,
+    "row": {
+        "first_train_to_station_a_odd": "6:10",
+        "last_train_to_station_a_odd_even": "0:40",
+        "first_train_to_station_b_odd": "5:53",
+        "note": "-",
+        "first_train_to_station_b_even": "5:53",
+        "first_train_to_station_a_even": "6:10",
+        "time_open": "5:45",
+        "last_train_to_station_b_odd_even": "0:16",
+        "time_close_input": "0:35",
+        "name_hall": "Пионерская",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 17,
+    "row": {
+        "first_train_to_station_a_odd": "5:53",
+        "last_train_to_station_a_odd_even": "0:43",
+        "first_train_to_station_b_odd": "5:50",
+        "note": "-",
+        "first_train_to_station_b_even": "5:50",
+        "first_train_to_station_a_even": "6:13",
+        "time_open": "5:43",
+        "last_train_to_station_b_odd_even": "0:14",
+        "time_close_input": "0:38",
+        "name_hall": "Удельная",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 18,
+    "row": {
+        "first_train_to_station_a_odd": "5:48",
+        "last_train_to_station_a_odd_even": "0:46",
+        "first_train_to_station_b_odd": "5:47",
+        "note": "-",
+        "first_train_to_station_b_even": "5:57",
+        "first_train_to_station_a_even": "6:16",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:11",
+        "time_close_input": "0:41",
+        "name_hall": "Озерки",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 19,
+    "row": {
+        "first_train_to_station_a_odd": "5:50",
+        "last_train_to_station_a_odd_even": "0:48",
+        "first_train_to_station_b_odd": "5:45",
+        "note": "-",
+        "first_train_to_station_b_even": "6:01",
+        "first_train_to_station_a_even": "5:50",
+        "time_open": "5:35 нечет 5:45 чет",
+        "last_train_to_station_b_odd_even": "0:08",
+        "time_close_input": "0:40",
+        "name_hall": "Проспект Просвещения",
+        "time_close_exit": "1:05"
+    }
+}, {
+    "num_id": 20,
+    "row": {
+        "first_train_to_station_a_odd": "5:54",
+        "last_train_to_station_a_odd_even": "0:52",
+        "first_train_to_station_b_odd": "5:50",
+        "note": "-",
+        "first_train_to_station_b_even": "6:00",
+        "first_train_to_station_a_even": "5:54",
+        "time_open": "5:45",
+        "last_train_to_station_b_odd_even": "0:05",
+        "time_close_input": "0:00",
+        "name_hall": "Парнас",
+        "time_close_exit": "1:02"
+    }
+}, {
+    "num_id": 1,
+    "row": {
+        "first_train_to_station_a_odd": "5:51",
+        "last_train_to_station_a_odd_even": "0:10",
+        "first_train_to_station_b_odd": "5:57",
+        "note": "-",
+        "first_train_to_station_b_even": "5:52",
+        "first_train_to_station_a_even": "5:45",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:50",
+        "time_close_input": "0:00",
+        "name_hall": "Беговая",
+        "time_close_exit": "1:05"
+    }
+}, {
+    "num_id": 2,
+    "row": {
+        "first_train_to_station_a_odd": "-",
+        "last_train_to_station_a_odd_even": "-",
+        "first_train_to_station_b_odd": "-",
+        "note": "-",
+        "first_train_to_station_b_even": "-",
+        "first_train_to_station_a_even": "-",
+        "time_open": "Закрыт для входа и выхода пассажиров",
+        "last_train_to_station_b_odd_even": "-",
+        "time_close_input": "-",
+        "name_hall": "Зенит (Новокрестовская) 1",
+        "time_close_exit": "-"
+    }
+}, {
+    "num_id": 3,
+    "row": {
+        "first_train_to_station_a_odd": "-",
+        "last_train_to_station_a_odd_even": "-",
+        "first_train_to_station_b_odd": "-",
+        "note": "-",
+        "first_train_to_station_b_even": "-",
+        "first_train_to_station_a_even": "-",
+        "time_open": "Закрыт для входа и выхода пассажиров",
+        "last_train_to_station_b_odd_even": "-",
+        "time_close_input": "-",
+        "name_hall": "Зенит (Новокрестовская) 2",
+        "time_close_exit": "-"
+    }
+}, {
+    "num_id": 4,
+    "row": {
+        "first_train_to_station_a_odd": "5:58",
+        "last_train_to_station_a_odd_even": "0:17",
+        "first_train_to_station_b_odd": "6:05",
+        "note": "-",
+        "first_train_to_station_b_even": "5:48",
+        "first_train_to_station_a_even": "5:42",
+        "time_open": "5:45 нечет 5:32 чет",
+        "last_train_to_station_b_odd_even": "0:43",
+        "time_close_input": "0:35",
+        "name_hall": "Приморская",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 5,
+    "row": {
+        "first_train_to_station_a_odd": "5:42",
+        "last_train_to_station_a_odd_even": "0:20",
+        "first_train_to_station_b_odd": "6:02",
+        "note": "-",
+        "first_train_to_station_b_even": "6:02",
+        "first_train_to_station_a_even": "5:42",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:39",
+        "time_close_input": "0:34",
+        "name_hall": "Василеостровская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 6,
+    "row": {
+        "first_train_to_station_a_odd": "5:47",
+        "last_train_to_station_a_odd_even": "0:25",
+        "first_train_to_station_b_odd": "5:57",
+        "note": "-",
+        "first_train_to_station_b_even": "5:57",
+        "first_train_to_station_a_even": "5:47",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:35",
+        "time_close_input": "0:28",
+        "name_hall": "Гостиный двор",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 7,
+    "row": {
+        "first_train_to_station_a_odd": "5:50",
+        "last_train_to_station_a_odd_even": "0:28",
+        "first_train_to_station_b_odd": "5:54",
+        "note": "-",
+        "first_train_to_station_b_even": "5:54",
+        "first_train_to_station_a_even": "5:50",
+        "time_open": "Вестибюль закрыт",
+        "last_train_to_station_b_odd_even": "0:32",
+        "time_close_input": "",
+        "name_hall": "Маяковская",
+        "time_close_exit": ""
+    }
+}, {
+    "num_id": 8,
+    "row": {
+        "first_train_to_station_a_odd": "5:53",
+        "last_train_to_station_a_odd_even": "0:31",
+        "first_train_to_station_b_odd": "5:51",
+        "note": "-",
+        "first_train_to_station_b_even": "5:51",
+        "first_train_to_station_a_even": "5:53",
+        "time_open": "5:32",
+        "last_train_to_station_b_odd_even": "0:28",
+        "time_close_input": "0:25",
+        "name_hall": "Площадь Александра Невского 1",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 9,
+    "row": {
+        "first_train_to_station_a_odd": "5:58",
+        "last_train_to_station_a_odd_even": "0:36",
+        "first_train_to_station_b_odd": "5:46",
+        "note": "-",
+        "first_train_to_station_b_even": "5:46",
+        "first_train_to_station_a_even": "5:58",
+        "time_open": "5:39",
+        "last_train_to_station_b_odd_even": "0:24",
+        "time_close_input": "0:31",
+        "name_hall": "Елизаровская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 10,
+    "row": {
+        "first_train_to_station_a_odd": "6:02",
+        "last_train_to_station_a_odd_even": "0:39",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "5:43",
+        "first_train_to_station_a_even": "6:02",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:20",
+        "time_close_input": "0:34",
+        "name_hall": "Ломоносовская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 11,
+    "row": {
+        "first_train_to_station_a_odd": "5:45",
+        "last_train_to_station_a_odd_even": "0:42",
+        "first_train_to_station_b_odd": "5:50",
+        "note": "-",
+        "first_train_to_station_b_even": "5:59",
+        "first_train_to_station_a_even": "6:05",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:17",
+        "time_close_input": "0:35",
+        "name_hall": "Пролетарская",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 12,
+    "row": {
+        "first_train_to_station_a_odd": "5:48",
+        "last_train_to_station_a_odd_even": "0:45",
+        "first_train_to_station_b_odd": "5:47",
+        "note": "-",
+        "first_train_to_station_b_even": "5:56",
+        "first_train_to_station_a_even": "6:08",
+        "time_open": "5:40",
+        "last_train_to_station_b_odd_even": "0:14",
+        "time_close_input": "0:40",
+        "name_hall": "Обухово",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 13,
+    "row": {
+        "first_train_to_station_a_odd": "5:53",
+        "last_train_to_station_a_odd_even": "0:50",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "5:51",
+        "first_train_to_station_a_even": "6:13",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:10",
+        "time_close_input": "0:05",
+        "name_hall": "Рыбацкое",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 1,
+    "row": {
+        "first_train_to_station_a_odd": "5:43",
+        "last_train_to_station_a_odd_even": "0:10",
+        "first_train_to_station_b_odd": "5:54",
+        "note": "-",
+        "first_train_to_station_b_even": "5:54",
+        "first_train_to_station_a_even": "5:43",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:32",
+        "time_close_input": "0:05",
+        "name_hall": "Улица Дыбенко",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 2,
+    "row": {
+        "first_train_to_station_a_odd": "5:45",
+        "last_train_to_station_a_odd_even": "0:12",
+        "first_train_to_station_b_odd": "5:51",
+        "note": "-",
+        "first_train_to_station_b_even": "5:51",
+        "first_train_to_station_a_even": "5:45",
+        "time_open": "5:37",
+        "last_train_to_station_b_odd_even": "0:30",
+        "time_close_input": "0:23",
+        "name_hall": "Проспект Большевиков",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 3,
+    "row": {
+        "first_train_to_station_a_odd": "5:48",
+        "last_train_to_station_a_odd_even": "0:15",
+        "first_train_to_station_b_odd": "5:48",
+        "note": "-",
+        "first_train_to_station_b_even": "5:48",
+        "first_train_to_station_a_even": "5:48",
+        "time_open": "5:37",
+        "last_train_to_station_b_odd_even": "0:27",
+        "time_close_input": "0:20",
+        "name_hall": "Ладожская",
+        "time_close_exit": "0:40"
+    }
+}, {
+    "num_id": 4,
+    "row": {
+        "first_train_to_station_a_odd": "5:51",
+        "last_train_to_station_a_odd_even": "0:17",
+        "first_train_to_station_b_odd": "5:46",
+        "note": "-",
+        "first_train_to_station_b_even": "5:46",
+        "first_train_to_station_a_even": "5:51",
+        "time_open": "5:39",
+        "last_train_to_station_b_odd_even": "0:24",
+        "time_close_input": "0:19",
+        "name_hall": "Новочеркасская",
+        "time_close_exit": "0:35"
+    }
+}, {
+    "num_id": 5,
+    "row": {
+        "first_train_to_station_a_odd": "5:54",
+        "last_train_to_station_a_odd_even": "0:20",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "5:46",
+        "first_train_to_station_a_even": "5:54",
+        "time_open": "7:00",
+        "last_train_to_station_b_odd_even": "0:21",
+        "time_close_input": "20:00",
+        "name_hall": "Площадь Александра Невского 2",
+        "time_close_exit": "20:10"
+    }
+}, {
+    "num_id": 6,
+    "row": {
+        "first_train_to_station_a_odd": "5:56",
+        "last_train_to_station_a_odd_even": "0:23",
+        "first_train_to_station_b_odd": "5:47",
+        "note": "-",
+        "first_train_to_station_b_even": "5:47",
+        "first_train_to_station_a_even": "5:56",
+        "time_open": "5:37",
+        "last_train_to_station_b_odd_even": "0:19",
+        "time_close_input": "0:17",
+        "name_hall": "Лиговский проспект",
+        "time_close_exit": "0:35"
+    }
+}, {
+    "num_id": 7,
+    "row": {
+        "first_train_to_station_a_odd": "5:58",
+        "last_train_to_station_a_odd_even": "0:25",
+        "first_train_to_station_b_odd": "5:45",
+        "note": "-",
+        "first_train_to_station_b_even": "5:45",
+        "first_train_to_station_a_even": "5:58",
+        "time_open": "7:00",
+        "last_train_to_station_b_odd_even": "0:17",
+        "time_close_input": "20:00",
+        "name_hall": "Достоевская",
+        "time_close_exit": "20:10"
+    }
+}, {
+    "num_id": 8,
+    "row": {
+        "first_train_to_station_a_odd": "6:01",
+        "last_train_to_station_a_odd_even": "0:27",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "5:43",
+        "first_train_to_station_a_even": "6:01",
+        "time_open": "5:33",
+        "last_train_to_station_b_odd_even": "0:15",
+        "time_close_input": "0:08",
+        "name_hall": "Спасская",
+        "time_close_exit": "0:40"
+    }
+}, {
+    "num_id": 1,
+    "row": {
+        "first_train_to_station_a_odd": "5:30",
+        "last_train_to_station_a_odd_even": "0:10",
+        "first_train_to_station_b_odd": "6:12",
+        "note": "-",
+        "first_train_to_station_b_even": "6:12",
+        "first_train_to_station_a_even": "5:30",
+        "time_open": "5:20",
+        "last_train_to_station_b_odd_even": "0:46",
+        "time_close_input": "0:00",
+        "name_hall": "Шушары",
+        "time_close_exit": "1:00"
+    }
+}, {
+    "num_id": 2,
+    "row": {
+        "first_train_to_station_a_odd": "5:33",
+        "last_train_to_station_a_odd_even": "0:13",
+        "first_train_to_station_b_odd": "6:08",
+        "note": "-",
+        "first_train_to_station_b_even": "6:08",
+        "first_train_to_station_a_even": "5:33",
+        "time_open": "6:30",
+        "last_train_to_station_b_odd_even": "0:43",
+        "time_close_input": "22:00",
+        "name_hall": "Дунайская 1",
+        "time_close_exit": "22:10"
+    }
+}, {
+    "num_id": 3,
+    "row": {
+        "first_train_to_station_a_odd": "5:33",
+        "last_train_to_station_a_odd_even": "0:13",
+        "first_train_to_station_b_odd": "6:08",
+        "note": "-",
+        "first_train_to_station_b_even": "6:08",
+        "first_train_to_station_a_even": "5:33",
+        "time_open": "5:23",
+        "last_train_to_station_b_odd_even": "0:43",
+        "time_close_input": "0:35",
+        "name_hall": "Дунайская 2",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 4,
+    "row": {
+        "first_train_to_station_a_odd": "5:36",
+        "last_train_to_station_a_odd_even": "0:16",
+        "first_train_to_station_b_odd": "6:05",
+        "note": "-",
+        "first_train_to_station_b_even": "6:05",
+        "first_train_to_station_a_even": "5:36",
+        "time_open": "5:26",
+        "last_train_to_station_b_odd_even": "0:40",
+        "time_close_input": "0:32",
+        "name_hall": "Проспект Славы 1",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 5,
+    "row": {
+        "first_train_to_station_a_odd": "5:36",
+        "last_train_to_station_a_odd_even": "0:16",
+        "first_train_to_station_b_odd": "6:05",
+        "note": "-",
+        "first_train_to_station_b_even": "6:05",
+        "first_train_to_station_a_even": "5:36",
+        "time_open": "6:30",
+        "last_train_to_station_b_odd_even": "0:40",
+        "time_close_input": "22:00",
+        "name_hall": "Проспект Славы 2",
+        "time_close_exit": "22:10"
+    }
+}, {
+    "num_id": 6,
+    "row": {
+        "first_train_to_station_a_odd": "5:38",
+        "last_train_to_station_a_odd_even": "0:18",
+        "first_train_to_station_b_odd": "6:03",
+        "note": "-",
+        "first_train_to_station_b_even": "6:03",
+        "first_train_to_station_a_even": "5:38",
+        "time_open": "5:29",
+        "last_train_to_station_b_odd_even": "0:38",
+        "time_close_input": "0:32",
+        "name_hall": "Международная",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 7,
+    "row": {
+        "first_train_to_station_a_odd": "5:41",
+        "last_train_to_station_a_odd_even": "0:20",
+        "first_train_to_station_b_odd": "6:00",
+        "note": "-",
+        "first_train_to_station_b_even": "6:00",
+        "first_train_to_station_a_even": "5:41",
+        "time_open": "5:32",
+        "last_train_to_station_b_odd_even": "0:36",
+        "time_close_input": "0:29",
+        "name_hall": "Бухарестская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 8,
+    "row": {
+        "first_train_to_station_a_odd": "5:43",
+        "last_train_to_station_a_odd_even": "0:22",
+        "first_train_to_station_b_odd": "5:58",
+        "note": "-",
+        "first_train_to_station_b_even": "5:58",
+        "first_train_to_station_a_even": "5:43",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:34",
+        "time_close_input": "0:27",
+        "name_hall": "Волковская",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 9,
+    "row": {
+        "first_train_to_station_a_odd": "5:46",
+        "last_train_to_station_a_odd_even": "0:25",
+        "first_train_to_station_b_odd": "5:55",
+        "note": "-",
+        "first_train_to_station_b_even": "5:55",
+        "first_train_to_station_a_even": "5:46",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:31",
+        "time_close_input": "0:24",
+        "name_hall": "Обводный канал",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 10,
+    "row": {
+        "first_train_to_station_a_odd": "5:49",
+        "last_train_to_station_a_odd_even": "0:28",
+        "first_train_to_station_b_odd": "5:52",
+        "note": "-",
+        "first_train_to_station_b_even": "5:52",
+        "first_train_to_station_a_even": "5:49",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:28",
+        "time_close_input": "0:23",
+        "name_hall": "Звенигородская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 11,
+    "row": {
+        "first_train_to_station_a_odd": "5:51",
+        "last_train_to_station_a_odd_even": "0:30",
+        "first_train_to_station_b_odd": "5:50",
+        "note": "-",
+        "first_train_to_station_b_even": "5:50",
+        "first_train_to_station_a_even": "5:51",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:26",
+        "time_close_input": "0:24",
+        "name_hall": "Садовая",
+        "time_close_exit": "0:45"
+    }
+}, {
+    "num_id": 12,
+    "row": {
+        "first_train_to_station_a_odd": "5:53",
+        "last_train_to_station_a_odd_even": "0:32",
+        "first_train_to_station_b_odd": "5:48",
+        "note": "-",
+        "first_train_to_station_b_even": "5:48",
+        "first_train_to_station_a_even": "5:53",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:24",
+        "time_close_input": "0:24",
+        "name_hall": "Адмиралтейская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 13,
+    "row": {
+        "first_train_to_station_a_odd": "5:57",
+        "last_train_to_station_a_odd_even": "0:35",
+        "first_train_to_station_b_odd": "5:44",
+        "note": "-",
+        "first_train_to_station_b_even": "5:44",
+        "first_train_to_station_a_even": "5:57",
+        "time_open": "5:36",
+        "last_train_to_station_b_odd_even": "0:21",
+        "time_close_input": "0:30",
+        "name_hall": "Спортивная 1",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 14,
+    "row": {
+        "first_train_to_station_a_odd": "5:57",
+        "last_train_to_station_a_odd_even": "0:35",
+        "first_train_to_station_b_odd": "5:44",
+        "note": "-",
+        "first_train_to_station_b_even": "5:44",
+        "first_train_to_station_a_even": "5:57",
+        "time_open": "5:34",
+        "last_train_to_station_b_odd_even": "0:21",
+        "time_close_input": "0:26",
+        "name_hall": "Спортивная 2",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 15,
+    "row": {
+        "first_train_to_station_a_odd": "5:59",
+        "last_train_to_station_a_odd_even": "0:37",
+        "first_train_to_station_b_odd": "5:42",
+        "note": "-",
+        "first_train_to_station_b_even": "5:47",
+        "first_train_to_station_a_even": "5:59",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:19",
+        "time_close_input": "0:33",
+        "name_hall": "Чкаловская",
+        "time_close_exit": "0:50"
+    }
+}, {
+    "num_id": 16,
+    "row": {
+        "first_train_to_station_a_odd": "6:02",
+        "last_train_to_station_a_odd_even": "0:40",
+        "first_train_to_station_b_odd": "5:49",
+        "note": "-",
+        "first_train_to_station_b_even": "5:49",
+        "first_train_to_station_a_even": "6:02",
+        "time_open": "5:42",
+        "last_train_to_station_b_odd_even": "0:16",
+        "time_close_input": "0:36",
+        "name_hall": "Крестовский остров",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 17,
+    "row": {
+        "first_train_to_station_a_odd": "5:48",
+        "last_train_to_station_a_odd_even": "0:43",
+        "first_train_to_station_b_odd": "5:46",
+        "note": "-",
+        "first_train_to_station_b_even": "5:46",
+        "first_train_to_station_a_even": "5:48",
+        "time_open": "5:38",
+        "last_train_to_station_b_odd_even": "0:13",
+        "time_close_input": "0:39",
+        "name_hall": "Старая Деревня",
+        "time_close_exit": "0:55"
+    }
+}, {
+    "num_id": 18,
+    "row": {
+        "first_train_to_station_a_odd": "5:52",
+        "last_train_to_station_a_odd_even": "0:46",
+        "first_train_to_station_b_odd": "5:43",
+        "note": "-",
+        "first_train_to_station_b_even": "5:43",
+        "first_train_to_station_a_even": "5:52",
+        "time_open": "5:35",
+        "last_train_to_station_b_odd_even": "0:10",
+        "time_close_input": "0:03",
+        "name_hall": "Комендантский проспект",
+        "time_close_exit": "1:00"
+    }
+}]

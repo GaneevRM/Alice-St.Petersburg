@@ -1,0 +1,133 @@
+[{
+    "num_id": 1,
+    "row": {
+        "restrictions": "Вход и выход через вестибюль станции \"Технологический институт-2\"",
+        "number_line": "1",
+        "type_days": "все дни",
+        "date_start": "06.04.2020",
+        "number": "1",
+        "note": "-",
+        "date_finish": "31.12.2021",
+        "name_hall": "Технологический институт 1"
+    }
+}, {
+    "num_id": 2,
+    "row": {
+        "restrictions": "вход в вестибюль ограничен",
+        "number_line": "2",
+        "type_days": "рабочие",
+        "date_start": "11.03.2021",
+        "number": "2",
+        "note": "-",
+        "date_finish": "14.05.2021",
+        "name_hall": "Парк Победы"
+    }
+}, {
+    "num_id": 3,
+    "row": {
+        "restrictions": "вход в вестибюль ограничен",
+        "number_line": "3",
+        "type_days": "суббота, воскресенье",
+        "date_start": "03.04.2021",
+        "number": "3",
+        "note": "-",
+        "date_finish": "04.04.2021",
+        "name_hall": "Парк Победы"
+    }
+}, {
+    "num_id": 4,
+    "row": {
+        "restrictions": "вход и выход через вестибюль станции «Площадь Восстания»",
+        "number_line": "3",
+        "type_days": "все дни",
+        "date_start": "09.01.2021",
+        "number": "4",
+        "note": "-",
+        "date_finish": "31.12.2021",
+        "name_hall": "Маяковская"
+    }
+}, {
+    "num_id": 5,
+    "row": {
+        "restrictions": "закрыт для проведения работ по капитальному ремонту",
+        "number_line": "1",
+        "type_days": "все дни",
+        "date_start": "01.01.2020",
+        "number": "5",
+        "note": "-",
+        "date_finish": "31.12.2021",
+        "name_hall": "Технологический институт 1"
+    }
+}, {
+    "num_id": 8,
+    "row": {
+        "restrictions": "вход и выход закрыт",
+        "number_line": "4",
+        "type_days": "выходные, праздничные",
+        "date_start": "01.01.2020",
+        "number": "8",
+        "note": "-",
+        "date_finish": "31.12.2021",
+        "name_hall": "Достоевская"
+    }
+}, {
+    "num_id": 9,
+    "row": {
+        "restrictions": "вход и выход закрыт",
+        "number_line": "4",
+        "type_days": "выходные, праздничные",
+        "date_start": "01.01.2020",
+        "number": "9",
+        "note": "-",
+        "date_finish": "31.12.2021",
+        "name_hall": "Площадь Александра Невского 2"
+    }
+}, {
+    "num_id": 11,
+    "row": {
+        "restrictions": "ремонт эскалаторов и пассажирских конвейеров",
+        "number_line": "2",
+        "type_days": "все дни",
+        "date_start": "11.03.2021",
+        "number": "11",
+        "note": "-",
+        "date_finish": "14.05.2021",
+        "name_hall": "Парк Победы"
+    }
+}, {
+    "num_id": 12,
+    "row": {
+        "restrictions": "ремонт эскалаторов и пассажирских конвейеров",
+        "number_line": "3",
+        "type_days": "все дни",
+        "date_start": "11.01.2021",
+        "number": "12",
+        "note": "-",
+        "date_finish": "19.03.2021",
+        "name_hall": "Гостиный двор"
+    }
+}, {
+    "num_id": 13,
+    "row": {
+        "restrictions": "ремонт эскалаторов и пассажирских конвейеров",
+        "number_line": "3",
+        "type_days": "все дни",
+        "date_start": "08.02.2021",
+        "number": "13",
+        "note": "-",
+        "date_finish": "09.04.2021",
+        "name_hall": "Пролетарская"
+    }
+}, {
+    "num_id": 14,
+    "row": {
+        "restrictions": "ремонт эскалаторов и пассажирских конвейеров",
+        "number_line": "5",
+        "type_days": "все дни",
+        "date_start": "14.01.2021",
+        "number": "14",
+        "note": "-",
+        "date_finish": "22.03.2021",
+        "name_hall": "Адмиралтейская"
+    }
+}]
